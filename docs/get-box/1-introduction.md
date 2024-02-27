@@ -10,6 +10,8 @@ order: 1
 
 Jangala's Get Box is designed to provide effective internet access for households and small groups. It's designed to be easy to set up, provide robust performance, and make the most of available data [^1].
 
-![Jangala's Mission](images/jangala-mission.svg){ width=100% } <br/>
+![Jangala's Mission](images/introduction.svg){ width=70% } <br/>
+
+This short manual will help you set up your Get Box.
 
 [^1]: Here is the footnote.
