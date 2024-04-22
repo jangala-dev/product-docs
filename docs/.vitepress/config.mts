@@ -16,6 +16,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Get Box', link: '/get-box/1-introduction' },
       { text: 'Big Box', link: '/big-box/1-introduction' },
+      { text: 'Onboarding Tech', link: '/onboarding-tech/1-introduction' },
       { text: 'Try Markdown', link: '/test-markdown' },
     ],
 

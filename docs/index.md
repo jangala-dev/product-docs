@@ -18,6 +18,9 @@ hero:
     - theme: alt
       text: Big Box
       link: /big-box/1-introduction
+    - theme: alt
+      text: Onboarding Tech
+      link: /onboarding-tech/1-introduction
 
 features:
   - icon: 📖
