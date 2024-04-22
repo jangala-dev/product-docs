@@ -5,30 +5,19 @@ author:  Samson Rinaldi / Chris Punt
 order: 3
 ---
 
-## Networking: How you got to the Knowledge Base
-### Summary
-In this Article, we dive into the world of networking – the essential framework enabling your access to this knowledge base. We'll trace the journey from the initial click to the moment this page loads, spotlighting the  technologies and protocols that allowed for this process.
+# Networking: How We're Connected
+Welcome to a quick dive into how networking powers connectivity at Jangala! Whether you're tech-savvy or just curious about the technical underpinnings, this guide will provide you with key insights into how our products ensure seamless connectivity.
 
-### The Electromagnetic Spectrum: Our Starting Point
-Our journey starts with the electromagnetic spectrum, a vast expanse of frequencies ranging from radio waves to gamma and X-rays. In the world of networking, we concentrate on radio waves, the conduits for Wi-Fi (2.4-6 GHz) and cellular signals (2G to 5G). These waves create the unseen web of our digital connectivity.
+## Wi-Fi Connectivity
+Our devices broadcast Wi-Fi at two main frequencies: 2.4GHz and 5GHz, which are part of the radio band of the electromagnetic spectrum. The 2.4GHz band offers extensive coverage and greater range, making it ideal for reaching through walls and other barriers. In contrast, the 5GHz band provides faster data speeds, perfect for high-bandwidth activities like streaming and gaming.
 
-### Wi-Fi: The Unseen Link
-Let's assume your current device connection is via Wi-Fi which is being broadcasted by Big Box. This technology employs radio waves to form a bridge between your devices and the internet, operating across 2.4GHz, 5GHz, and 6GHz frequencies. Each band offers a unique balance of coverage and speed, tailored to different environmental needs.
+## Backhaul Options
+To connect to the broader internet, our devices use three types of backhaul: cable, satellite, and cellular towers. Each has its advantages — cable is reliable for steady connections, satellite covers wide areas beyond other infrastructures, and cellular offers flexibility with mobile access. This diversity ensures that our devices maintain connectivity in various settings.
 
-### Jangala's Innovations: Big Box and Get Box
-Our Big Box broadcasts on both 2.4 and 5GHz frequencies, while the Get Box focuses solely on the 2.4GHz band. To ensure comprehensive network coverage, we also deploy access points, enhancing the reach and reliability of the wifi network.
+## IP Addresses
+Each device connected to our Wi-Fi is assigned an IP address, akin to a postal address on the internet. This ensures that data packets are accurately delivered to and from your device, whether it's communicating within your home network or across the internet.
 
-### Routers: The Navigators of Your Network
-Routers are the pivotal elements that direct internet traffic within your network. Our Big Box serves as a dynamic router, skillfully managing data flow, even under limited internet speed conditions, ensuring a consistent and efficient online experience.
+## Routing and Data Retrieval
+When you send a request from your device, it is routed through the network to access the internet. Initially, the request moves to a Wide Area Network (WAN), reaches a DNS server to resolve the domain name into an IP address, and then proceeds to the appropriate data center to retrieve the requested data. The response travels back along this path to reach your device, guided by the IP address.
 
-### Backhaul: The Digital Highway
-Backhaul forms the crucial link connecting local networks to the broader internet. Our products can use a range of backhauls including copper wires, fibre optics, and cellular links. This adaptability ensures a resilient connection depending on what is available. 
-
-### IP Addresses: Digital Identifier
-When you connect to the internet, your router reserves an IP address from the internet service provider. Subsequently, your device is assigned a local IP address by the router. This unique identifier is vital for accurately directing internet traffic. Our routers adeptly manage these addresses within local networks, ensuring orderly and precise data transmission.
-
-### The Final Step: Accessing the Knowledge Base
-The final leg of this journey brings you to this knowledge base. Your request is routed through the local network set up by the Big Box router, reaching out to the server of the internet provider, and then to the storage centre hosting the Jangala Knowledge Base. The server then retraces this path to deliver the data back to you, enabling this page to load on your screen. Despite its complexity, this process is streamlined by the seamless interaction of various network components.
-
-### Conclusion
-In conclusion, from the invisible waves of the electromagnetic spectrum to the sophisticated routing capabilities of Big Box, every step in this journey underscores the intricate yet harmonious nature of networking. It's a testament to how advanced technology and thoughtful design come together to keep us connected in the digital world.
+Through understanding these fundamental elements—from Wi-Fi transmission and backhaul options to IP addresses and routing—you'll appreciate how our devices facilitate reliable and efficient internet connections. This knowledge is essential as it ensures every interaction with our technology is smooth and productive. Welcome to the interconnected world of Jangala, where advanced networking brings your digital world to life.
