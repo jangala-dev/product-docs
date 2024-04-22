@@ -6,7 +6,7 @@ order: 4
 ---
 
 ## Hardware
-Jangala's has been putting together exsiting solutions creatnig complex netwroks as our ambitions scale we're creating custom solutions which fits the worlds needs.
+Jangala's has been putting together exsiting solutions creatnig complex netwroks as our ambitions scale we're creating custom solutions which fits the worlds needs. Samson edit here 
 
 ### Bigbox
 Big Box by Jangala is a lightweight briefcase-sized device that transforms any form of internet connectivity into Wifi that is easy to manage and scale, from tens to thousands of users. By eliminating the need for costly technical expertise - for installation, configuration and maintenance - Big Box substantially lowers the barriers to deploying internet access across a range of challenging aid scenarios:
