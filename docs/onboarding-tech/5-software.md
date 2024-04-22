@@ -5,19 +5,22 @@ author:  Chris Punt
 order: 5
 ---
 
-# Software
+# Software Ecosystem
+At Jangla, we pride ourselves on a diverse and specialized software ecosystem that powers everything from device firmware to cloud services. Whether you're a seasoned developer or new to tech, here's a straightforward breakdown of what makes our systems work and how they interact to deliver exceptional performance and reliability.
 
-## Firmware
+## Cloud Services
+Our cloud operations are powered by Go, known for its stellar performance in managing multiple tasks simultaneously. These services play a crucial role in updating, controlling, and monitoring our devices, ensuring everything runs smoothly with continuous feedback from device telemetry.
 
-## Enrol
+## Device Firmware
+Our devices utilize OpenWRT, a Linux distribution that's particularly suited for our WiFi routers. This choice supports a stable and secure operation, allowing us to leverage OpenWRT's flexibility and robust community support.
 
-## Cloud Platform
-Jangala's cloud platform is set to offer a wide range of features to make it easier for users to monitor and control their devices. With this platform, users will be able to control their device's settings, monitor its performance, and analyse its performance history.
+## Device Software
+On the device side, we use Lua for its small footprint and ability to interact closely with the operating system. This ensures our devices are not only effective but also efficient in their daily operations.
 
-The platform has been designed to offer flexibility, giving users the option to self-host or use Jangala's own hosted platform. It will also be possible to host the platform across multiple cloud backends, catering to different user preferences.
+## User Interfaces
+For both device and cloud interfaces, we use a combination of JavaScript, TypeScript, and Vue.js. These technologies help us create responsive, intuitive user interfaces that enhance the overall user experience, making our products not only powerful but also a pleasure to use.
 
-Smart data management will allow users to monitor their data usage and set restrictions to avoid excessive usage. The platform will also provide insights into network performance and send notifications and alerts when issues are detected.
+## DevOps
+Kubernetes stands at the core of our DevOps practices, helping us keep our systems scalable and robust. It enables us to manage our hosting environment effectively, ensuring that we can scale as needed without sacrificing performance.
 
-Users will also have access to network optimization tools to ensure that their network is running efficiently. The progressive web app interface will make it easy for users to access all these features from any device.
-
-Additionally, the multi-tenancy feature will enable users to manage multiple networks from a single interface, making network monitoring more streamlined and efficient. Overall, Jangala's cloud platform will provide users with a comprehensive suite of features to enhance their network monitoring capabilities.
+As you begin your journey with Jangla, you'll find that our tech stack isn't just about the tools we use; it's about creating a seamless, integrated experience that meets our high standards of quality and innovation. Whether you're working directly with our technology or supporting it from a broader role, understanding this ecosystem will help you see the big picture of how we achieve our goals at Jangla.
