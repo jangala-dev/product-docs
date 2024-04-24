@@ -6,9 +6,9 @@ order: 4
 ---
 
 ## Hardware
-Jangala began by innovatively harnessing existing connectivity solutions to construct complex networks tailored to diverse needs. As our projects expanded, we transitioned from relying solely on off-the-shelf components to crafting increasingly customized solutions. Our approach has always been pragmatic—focusing on bespoke development only when absolutely necessary.
+Jangala started by creatively using existing connectivity solutions to build complex networks that meet urgent needs. As our projects grew, we shifted from depending mainly on off-the-shelf components to developing more customized solutions. Our approach has been practical, focusing on development only when it is absolutely necessary.
 
-Today, Jangala offers two distinct products designed to bridge a broad range of needs across the digital divide: 
+Today, Jangala offers two distinct products designed to meet a wide variety of needs across the digital divide:
 
 ### Bigbox
 Big Box by Jangala is a lightweight briefcase-sized device that transforms any form of internet connectivity into Wifi that is easy to manage and scale, from tens to thousands of users. By eliminating the need for costly technical expertise - for installation, configuration and maintenance - Big Box substantially lowers the barriers to deploying internet access across a range of challenging aid scenarios:
