@@ -14,7 +14,7 @@ Jangala started by creatively using existing connectivity solutions to build com
 Big Box by Jangala is a lightweight briefcase-sized device that transforms any form of internet connectivity into Wifi that is easy to manage and scale, from tens to thousands of users. By eliminating the need for costly technical expertise - for installation, configuration and maintenance - Big Box substantially lowers the barriers to deploying internet access across a range of challenging aid scenarios:
 * Wifi: 100 user capacity on integrated dual-band Wi-Fi 5
 * Network: Expandable to 2,500 users with x4 additional access points power by PoE from device 
-* Backhaul: Dual Global 4G modem + works with satellite
+* Backhaul: Dual Global 4G modem + works with satellite + cable
 * Management: Education suitable - easy content blocking
 * Power: Low power - 12 watts @ 10.5-36V DC input
 * Hardware:
