@@ -7,7 +7,7 @@ order: 3
 
 # Networking: How We're Connected
 
-Welcome to a quick dive into how networking powers connectivity at Jangala! Whether you're tech-savvy or just curious about the technical underpinnings, this guide will provide you with key insights into how our products ensure seamless connectivity.
+Welcome to a quick dive into how networking powers connectivity at Jangala! Whether you're tech-savvy or just curious about the technical underpinnings, this guide will provide you with key insights into how our products share connectivity.
 
 ## Wi-Fi Connectivity
 
