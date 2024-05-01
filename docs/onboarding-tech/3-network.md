@@ -23,6 +23,6 @@ Each device connected to our Wi-Fi is assigned an IP address, akin to a postal a
 
 ## Routing and Data Retrieval
 
-When you send a request from your device, it is routed through the network to access the internet. Initially, the request moves to a Wide Area Network (WAN), reaches a DNS server to resolve the domain name into an IP address, and then proceeds to the appropriate data center to retrieve the requested data. The response travels back along this path to reach your device, guided by the IP address.
+When you send a request from your device, it is routed through the network to access the internet. Initially, the request moves to a Wide Area Network (WAN), reaches a DNS server to translates the domain name into an IP address, and then proceeds to the appropriate data center to retrieve the requested data. The response travels back along this path to reach your device, guided by the IP address.
 
 Through understanding these fundamental elements—from Wi-Fi transmission and backhaul options to IP addresses and routing—you'll appreciate how our devices facilitate reliable and efficient internet connections. This knowledge is essential as it ensures every interaction with our technology is smooth and productive. Welcome to the interconnected world of Jangala, where advanced networking brings your digital world to life.
