@@ -5,7 +5,7 @@ author:  Samson Rinaldi
 order: 2
 ---
 
-# Introduction
+# Our Products
 
 Since 2015, Jangala has been developing and implementing internet access solutions to support the delivery of critical social services to marginalised communities. We utilise a variety of self-built and off-the-shelf techniques and technologies to ensure we can provide the best possible service to our users both now and in the future. Our products cater to a diverse range of needs, from easy-to-manage and scalable networks that can serve hundreds or even thousands of users, to at-home safe Wi-Fi that enables providers to monitor and manage connections.
 
