@@ -7,9 +7,7 @@ order: 4
 
 # Hardware
 
-Jangala started by creatively using existing connectivity solutions to build complex networks that meet urgent needs. As our projects grew, we shifted from depending mainly on off-the-shelf components to developing more customized solutions. Our approach has been practical, focusing on development only when it is absolutely necessary.
-
-Today, Jangala offers two distinct products designed to meet a wide variety of needs across the digital divide:
+Jangala started by creatively using existing connectivity solutions to build complex networks that meet urgent needs. As our projects grew, we shifted from depending mainly on off-the-shelf components to developing more customized solutions. Our approach has been practical, focusing on development only when it is absolutely necessary. Today, Jangala offers two distinct products designed to meet a wide variety of needs across the digital divide.
 
 ## Bigbox
 
