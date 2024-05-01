@@ -6,7 +6,7 @@ order: 5
 ---
 
 # Software Ecosystem
-At Jangala, we pride ourselves on a diverse and specialized software ecosystem that powers everything from device firmware to cloud services. Whether you're a seasoned developer or new to tech, here's a straightforward breakdown of what makes our systems work and how they interact to deliver exceptional performance and reliability.
+At Jangala, we pride ourselves on a diverse and specialised software ecosystem that powers everything from device firmware to cloud services. Whether you're a seasoned developer or new to tech, here's a straightforward breakdown of what makes our systems work and how they interact to deliver exceptional performance and reliability.
 
 ## Cloud Services
 Our cloud operations are powered by Go, known for its stellar performance in managing multiple tasks simultaneously. These services play a crucial role in updating, controlling, and monitoring our devices, ensuring everything runs smoothly with continuous feedback from device telemetry.
