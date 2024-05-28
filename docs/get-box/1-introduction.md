@@ -13,7 +13,3 @@ Jangala's Get Box is designed to provide effective internet access for household
 ![Jangala's Mission](images/jangala-mission.svg){ width=100% } <br/>
 
 [^1]: Here is the footnote.
-
-# fds
-## changing
-### more changes

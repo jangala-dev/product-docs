@@ -12,7 +12,3 @@ order: 3
 - **Robust Performance**: Delivers reliable Wi-Fi coverage.
 
 ![Get Box Features](images/get-box-features.svg){ width=100% } <br/>
-
-
-# some changes 
-## more changes 
