@@ -11,11 +11,13 @@ Welcome to a quick dive into how networking powers connectivity at Jangala! Whet
 
 ## Wi-Fi Connectivity
 
-Our devices broadcast Wi-Fi at two main frequencies: 2.4GHz and 5GHz, which are part of the radio band of the electromagnetic spectrum. The 2.4GHz band offers extensive coverage and greater range, making it ideal for reaching through walls and other barriers. In contrast, the 5GHz band provides faster data speeds, perfect for high-bandwidth activities like streaming and gaming.
+Our devices broadcast Wi-Fi at two main frequencies: 2.4GHz and 5GHz, which are part of the radio band of the electromagnetic spectrum. The 2.4GHz band offers extensive coverage and greater range, making it ideal for reaching through walls and other barriers. In contrast, the 5GHz band provides faster data speeds due to the ability to duel band, perfect for high-bandwidth activities like streaming and gaming.
+
+![Electromagnetic Spectrum](images/spectrum.webp){ width=70% } <br/>
 
 ## Backhaul Options
 
-To connect to the broader internet, our devices use three types of backhaul: cable, satellite, and cellular towers. Each has its advantages — cable is reliable for steady connections, satellite covers wide areas beyond other infrastructures, and cellular offers flexibility with mobile access. This diversity ensures that our devices maintain connectivity in various settings.
+To connect to the broader internet, our devices primarily use three types of backhaul: cellular towers, satellite, and cable. Each has its advantages — cable is reliable for steady connections, satellite covers wide areas beyond other infrastructures, and cellular offers flexibility with mobile access. This diversity ensures that our devices maintain connectivity in various settings.
 
 ## IP Addresses
 
@@ -23,6 +25,6 @@ Each device connected to our Wi-Fi is assigned an IP address, akin to a postal a
 
 ## Routing and Data Retrieval
 
-When you send a request from your device, it is routed through the network to access the internet. Initially, the request moves to a Wide Area Network (WAN), reaches a DNS server to translates the domain name into an IP address, and then proceeds to the appropriate data center to retrieve the requested data. The response travels back along this path to reach your device, guided by the IP address.
+When you send a request from your device, it is routed through the network to access the internet. The request is first transmitted from your device to your router. From the router, it moves to the Wide Area Network (WAN) and then to a DNS server, which translates the domain name into an IP address. Next, the request is routed to the appropriate data center to retrieve the requested data. The response travels back along a similar path until it reaches your device.
 
-Through understanding these fundamental elements—from Wi-Fi transmission and backhaul options to IP addresses and routing—you'll appreciate how our devices facilitate reliable and efficient internet connections. This knowledge is essential as it ensures every interaction with our technology is smooth and productive. Welcome to the interconnected world of Jangala, where advanced networking brings your digital world to life.
+Understanding this process helps you appreciate the basic workings of the internet and how our devices communicate.
