@@ -21,6 +21,8 @@ Big Box by Jangala is a lightweight briefcase-sized device that transforms any f
   * Rugged: water and shockproof
   * Lightweight: 1.9 kilograms
 
+![Bigbox](images/bigbox.png){ width=70% } <br/>
+
 ## Getbox
 
 Get Box meets its users where they are, with no technical expertise required for setup. Designed with efficiency and user-friendliness in mind, it boasts the following features:
@@ -29,3 +31,5 @@ Get Box meets its users where they are, with no technical expertise required for
 * Speed: Fast boot-up with Wi-Fi operational in less than 1 minute.
 * Connectivity: A global 4G modem with traffic shaping for efficient data usage.
 * Design: Compact and portable, approximately the size of a paperback book.
+
+![Getbox](images/getbox.png){ width=70% } <br/>
