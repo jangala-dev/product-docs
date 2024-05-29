@@ -6,10 +6,8 @@ order: 1
 ---
 
 
-# Introducing Get Box
+# CONTENTS
 
-Jangala's Get Box is designed to provide effective internet access for households and small groups. It's designed to be easy to set up, provide robust performance, and make the most of available data [^1].
+Welcome to Get Box, an easy-to-use Wi-Fi connectivity device. This guide explains how to set up your Get Box. Please read carefully before starting.
 
-![Jangala's Mission](images/jangala-mission.svg){ width=100% } <br/>
 
-[^1]: Here is the footnote.
