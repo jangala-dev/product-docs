@@ -15,18 +15,18 @@ order: 4
 <style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 
 ## Poor signal:
-If two lights appear, you have poor signal. 
+### If two lights appear, you have poor signal. 
 ![Lights_1](GB_SVGs/GB_Light_Guide_1.svg) 
 
 
 ## OK signal:
-If four lights appear you have good signal. 
+### If four lights appear you have good signal. 
 ![Lights_2](GB_SVGs/GB_Light_Guide_2.svg)
 
 ## Good signal:
-If five or more appear you have excellent signal.
+### If five or more appear you have excellent signal.
 ![Lights_3](GB_SVGs/GB_Light_Guide_3.svg)
 
 ## No signal:
-If all lights are flashing you have no signal.
+### If all lights are flashing you have no signal.
 ![Lights_4](GB_SVGs/GB_Light_Guide_4.svg)

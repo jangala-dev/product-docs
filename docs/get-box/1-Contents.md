@@ -10,7 +10,7 @@ order: 1
 
 Welcome to Get Box, an easy-to-use Wi-Fi connectivity device. This guide explains how to set up your Get Box. Please read carefully before starting.
 
-![GB_Full](GB_SVGs/GB_Full.svg)
+![GB_Full](GB_SVGs/GB_Complete_Box.svg)
 
 ### This Manual Includes: 
 1. Getting Started: Setting Up and Using Get Box
