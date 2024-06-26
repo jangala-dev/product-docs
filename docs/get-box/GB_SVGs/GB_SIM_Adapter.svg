@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.8 76.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .9px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="m.5,25.9v48.5c0,1.1.9,2,2,2h27.1c1.1,0,2-.9,2-2V30.2l-6.4-6.4H2.5c-1.1,0-2,.9-2,2Z"/>
+    <path class="cls-1" d="m23.5,38.6l4.7,4.7v26.5c0,1.4-1.1,2.5-2.5,2.5H6.5c-1.4,0-2.5-1.1-2.5-2.5v-28.8c0-1.4,1.1-2.5,2.5-2.5h17Z"/>
+    <path class="cls-1" d="m38.1,25.9v48.5c0,1.1.9,2,2,2h27.1c1.1,0,2-.9,2-2V30.2l-6.4-6.4h-22.7c-1.1,0-2,.9-2,2Z"/>
+    <path class="cls-1" d="m62.7,50.9l3,3v16.9c0,.9-.7,1.6-1.6,1.6h-12.2c-.9,0-1.6-.7-1.6-1.6v-18.3c0-.9.7-1.6,1.6-1.6h10.8Z"/>
+  </g>
+  <path class="cls-1" d="m44.7,3.6l3-3h16.9c.9,0,1.6.7,1.6,1.6v12.2c0,.9-.7,1.6-1.6,1.6h-18.3c-.9,0-1.6-.7-1.6-1.6V3.6s0,0,0,0Z"/>
+  <path class="cls-1" d="m47.3,4.7l2.3-2.3h12.8c.7,0,1.2.5,1.2,1.2v9.3c0,.7-.5,1.2-1.2,1.2h-13.9c-.7,0-1.2-.5-1.2-1.2V4.7s0,0,0,0Z"/>
+  <g>
+    <rect class="cls-2" x="2.3" y="4.6" width="25" height="7" rx="3.5" ry="3.5"/>
+    <line class="cls-2" x1="27.3" y1="8.1" x2="34.8" y2="8.1"/>
+  </g>
+</svg>
