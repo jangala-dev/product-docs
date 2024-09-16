@@ -14,7 +14,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Box', link: '/get-box/1-introduction' },
+      { text: 'Get Box', link: '/get-box/1-Contents' },
       { text: 'Big Box', link: '/big-box/1-introduction' },
       { text: 'Try Markdown', link: '/test-markdown' },
     ],
